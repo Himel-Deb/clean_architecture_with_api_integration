@@ -1,5 +1,5 @@
 class Photo {
-  final int albumId;
+  final int? albumId;
   final int id;
   final String title;
   final String url;
